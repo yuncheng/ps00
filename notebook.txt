@@ -1,0 +1,7 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments8/25	YC	10:00	10:45	10	Software: Q1-6	35	Skipped wireless testing8/26	YC	13:00	13:30	10	Videos, Lessons 0.1-0.3	20	8/26	YC	15:00	16:15	15	Lesson 0.4: Q1-10	60	8/28	YC	11:00	11:30	0	GitHub	30	Went through GitHub's Spoon-Fork demonstration9/2	YC	10:00	12:00	30	GitHub lab00	90	9/4	YC	14:00	15:00	15	Lesson 0.4: Q1-10	45	Found out questions have to be saved in separate .rtk files
+9/4	YC	16:00	16:10	0	Commit to git	10
+
+TOTQ1 (hours and tenths)                         0.6 
+TOTQ2 (hours and tenths)                         1.8
+TOTQ3 (hours and tenths)  			 1.5
+TOTQ4 (hours and tenths)  			 0.2
